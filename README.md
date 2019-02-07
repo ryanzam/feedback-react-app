@@ -1,4 +1,4 @@
-[https://stormy-brushlands-51493.herokuapp.com/](DEMO)
+[LIVE DEMO](https://stormy-brushlands-51493.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
